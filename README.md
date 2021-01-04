@@ -2,7 +2,7 @@
 
 ### I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming fullstack developers. 🌟
 
-## 🚀  Just launched [Zero to Fullstack Hero]! Be a part of the amazing Papa Community!(https://www.papareact.com/course)
+## 🚀  Just launched [Zero to Fullstack Hero](https://www.papareact.com/course)! Be a part of the amazing Papa Community!
 
 ### Follow the PapaFam Community!:
 
