@@ -25,7 +25,7 @@
 
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/user/ssangha32/featured)
+➡️ [More Videos Here...](https://www.youtube.com/user/ssangha32/featured)
 
 ---
 
