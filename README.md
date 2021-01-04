@@ -1,6 +1,6 @@
-### Welcome PapaFam!, Sonny aka Papa React here! [website] 👋
+### Welcome PapaFam! Sonny aka Papa React here! [website] 👋
 
-[![Website](https://www.papareact.com)](https://papareact.com)
+![Website](https://www.papareact.com)](https://papareact.com)
 
 ## I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming fullstack developers. 🌟
 
@@ -31,11 +31,6 @@
 ➡️ [more videos...](https://www.youtube.com/user/ssangha32/featured)
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="PapaReact GitHub Statistics" src="https://github-readme-stats.PapaReact.vercel.app/api?username=PapaReact&show_icons=true&hide_border=true" />
 
 </details>
 
