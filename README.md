@@ -1,10 +1,8 @@
 ### Welcome PapaFam! Sonny aka Papa React here! [website] 👋
 
-![Website](https://www.papareact.com)](https://papareact.com)
-
 ## I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming fullstack developers. 🌟
 
-- 🔭 Just launched Zero to Fullstack Hero: [Go from Zero to a Fullstack Hero!][course]!
+- 🚀  Just launched Zero to Fullstack Hero: [Go from Zero to a Fullstack Hero!][course]!
 
 ### Follow the PapaFam Community!:
 
