@@ -7,6 +7,7 @@
 ### Follow the PapaFam Community!:
 
 [<img align="left" alt="PapaReact | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="PapaReact | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="PapaReact | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PapaReact | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -18,6 +19,7 @@
 
 <!-- YOUTUBE:START -->
 
+- [Let's build SNAPCHAT with REACT.JS! (with Camera, React-Router & Firebase)](https://youtu.be/1kGISk5ft2w)
 - [The Ultimate Roadmap to Success as a Full-Stack developer in 2021 (PROJECT X REVEAL)](https://youtu.be/hj_XHjnHrhI)
 - [Let's build Gmail with REACT.JS! (with React-Router, REDUX & Firebase)](https://youtu.be/b7nrXjS6Dqs)
 - [Let's build LinkedIn with REACT.JS! (with Redux & Firebase)](https://youtu.be/QaYts9sPmcY)
@@ -34,3 +36,4 @@
 [youtube]: https://www.youtube.com/user/ssangha32
 [instagram]: https://www.instagram.com/ssssangha
 [linkedin]: https://www.linkedin.com/in/saajansangha/
+[discord]: https://discord.gg/Eq2C6xMa
