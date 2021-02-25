@@ -16,21 +16,18 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-
+- [Let's build SLACK 2.0 with REACT.JS! (REDUX, Styled components & Firebase Hooks)](https://youtu.be/QiTq5WrWoJw)
+- [Let's build SIGNAL with REACT NATIVE! (Navigation, Expo & Firebase)](https://youtu.be/MJzmZ9qmdaE)
 - [Let's build SNAPCHAT with REACT.JS! (with Camera, React-Router & Firebase)](https://youtu.be/1kGISk5ft2w)
 - [The Ultimate Roadmap to Success as a Full-Stack developer in 2021 (PROJECT X REVEAL)](https://youtu.be/hj_XHjnHrhI)
 - [Let's build Gmail with REACT.JS! (with React-Router, REDUX & Firebase)](https://youtu.be/b7nrXjS6Dqs)
 - [Let's build LinkedIn with REACT.JS! (with Redux & Firebase)](https://youtu.be/QaYts9sPmcY)
 - [5 Reasons you MUST learn REACT in 2021!](https://youtu.be/kd-hK5Zmv6E)
 
-<!-- YOUTUBE:END -->
-
 ➡️ [More Videos Here...](https://www.youtube.com/user/ssangha32/featured)
 
 ---
 
-[website]: https://papareact.com
 [course]: http://papareact.com/course
 [youtube]: https://www.youtube.com/user/ssangha32
 [instagram]: https://www.instagram.com/ssssangha
