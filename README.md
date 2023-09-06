@@ -4,27 +4,16 @@
 
 ## 🚀  Join [Zero to Fullstack Hero](https://www.papareact.com/course) and be a part of the amazing PAPAFAM Community!
 
-### Follow the PapaFam Community!:
 
-[<img align="left" alt="PapaReact | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="PapaReact | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="PapaReact | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 📺 Some of my Most Watched YouTube Videos
 
-<br/>
+- [Let's build Uber 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Google Autocomplete)](https://youtube.com/live/bvn_HYpix6s)
+- [Let’s build ChatGPT Messenger 2.0 with REACT! (Next.js 13, Firebase, Tailwind CSS, TypeScript)](https://youtube.com/live/V6Hq_EX2LLM)
+- [Let's build Whatsapp 2.0 with NEXT.JS! (1-1 Messaging, Live Status, Styled-Components, React.JS)](https://youtube.com/live/svlEVg0To_c)
+- [Let's build a Modern Portfolio with NEXT.JS (Framer Motion, Tailwind CSS, Sanity.io, React)](https://youtube.com/live/urgi2iz9P6U)
+- [Let's build SIGNAL with REACT NATIVE! (Navigation, Expo & Firebase)](https://youtube.com/live/MJzmZ9qmdaE)
 
----
-
-### 📺 Latest YouTube Videos
-
-- [Let's build SLACK 2.0 with REACT.JS! (REDUX, Styled components & Firebase Hooks)](https://youtu.be/QiTq5WrWoJw)
-- [Let's build SIGNAL with REACT NATIVE! (Navigation, Expo & Firebase)](https://youtu.be/MJzmZ9qmdaE)
-- [Let's build SNAPCHAT with REACT.JS! (with Camera, React-Router & Firebase)](https://youtu.be/1kGISk5ft2w)
-- [The Ultimate Roadmap to Success as a Full-Stack developer in 2021 (PROJECT X REVEAL)](https://youtu.be/hj_XHjnHrhI)
-- [Let's build Gmail with REACT.JS! (with React-Router, REDUX & Firebase)](https://youtu.be/b7nrXjS6Dqs)
-- [Let's build LinkedIn with REACT.JS! (with Redux & Firebase)](https://youtu.be/QaYts9sPmcY)
-- [5 Reasons you MUST learn REACT in 2021!](https://youtu.be/kd-hK5Zmv6E)
-
-➡️ [More Videos Here...](https://www.youtube.com/user/ssangha32/featured)
+➡️ [More Videos Here...](https://www.youtube.com/@SonnySangha/streams)
 
 ---
 
